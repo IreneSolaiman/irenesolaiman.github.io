@@ -1,4 +1,5 @@
-body {font-family: Montserrat, Helvetica Neue, sans-serif; margin: 0 auto; line-height: 2em; padding: 12px; box-sizing: border-box; color: #333; overflow: auto;
+h1 {text-align: center;}
+body {text-align: center; font-family: Montserrat, Helvetica Neue, sans-serif; margin: 0 auto; line-height: 2em; padding: 12px; box-sizing: border-box; color: #333; overflow: auto;
 background: #ccebff; 
 background: -moz-linear-gradient(-45deg,  #ccebff 0%, #ccebff 50%, #ffffff 50%, #ffffff 100%); /* FF3.6+ */
 background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,#ccebff), color-stop(50%,#ccebff), color-stop(50%,#ffffff), color-stop(100%,#ffffff)); 
