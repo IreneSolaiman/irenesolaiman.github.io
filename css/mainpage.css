@@ -38,6 +38,7 @@ body {
 }
 hr {border-bottom: 3px solid #004d80;}
 
+
 .meta {text-transform: uppercase; font-family: Arial, Courier New, Source Sans Pro, sans-serif; font-size: 10px; letter-spacing: .15em;}
 .meta a:hover {color: #333;}
 
@@ -46,4 +47,4 @@ hr {border-bottom: 3px solid #004d80;}
 
 footer .inline-list li {margin-right: 40px;}
 footer a {border: 5; color: #004d80;}
-footer {margin: 0 auto; margin-top:2em; position: absolute; bottom: 0%; padding: 8px 0 0 0; width: 100%; background-color: #ffffff; border: solid #004d80 3px;}
+footer {margin: 0 auto; margin-top:2em; position: absolute; bottom: 0%; padding: 0px 0 0 0; width: 100%; background-color: #ffffff; border: solid #004d80 3px;}
