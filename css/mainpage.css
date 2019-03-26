@@ -1,4 +1,4 @@
-h1, h2 {text-align: center;}
+h4 {text-align: center; font-size: 10px}
 body {text-align: center; font-family: Montserrat, Helvetica Neue, sans-serif; margin: 0 auto; line-height: 2em; padding: 10px; box-sizing: border-box; color: #333; overflow: auto;
   background: white;
   background-image: linear-gradient(rgba(240, 240, 240, .7) .1em, transparent .1em), linear-gradient(90deg, rgba(240, 240, 240, .7) .1em, transparent .1em);
@@ -9,7 +9,7 @@ body, html {height: 100%;position: relative;}
 
 a {text-decoration: none; color: #333; border-bottom: 3px solid #004d80;}
 a:hover {color: #004d80}
-h2, p {font-weight: 200; font-size: 15px;}
+p {font-weight: 200; font-size: 15px;}
 
 * {
  box-sizing: border-box;
