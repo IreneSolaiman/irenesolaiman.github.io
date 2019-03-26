@@ -47,3 +47,18 @@ jQuery(document).ready(function($){
 			});
 		}
 	}
+
+	singleLetters($('.cd-headline.letters').find('b'));
+
+function singleLetters($words) {
+   $words.each(function(){
+      var word = $(this),
+          letters = word.text().split(''),
+          selected = word.hasClass('is-visible');
+      for (i in letters) {
+         letters[i] = (selected) ? '<i class="in">' + letters[i] + '</i>': '<i>' + letters[i] + '</i>';
+      }
+      var newLetters = letters.join('');
+      word.html(newLetters);
+   });
+}
