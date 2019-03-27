@@ -5,9 +5,12 @@ body {text-align: center; font-family: Montserrat, Helvetica Neue, sans-serif; m
   background-size: 3em 3em;
 }
 
+
 h3, h4, p {text-align: left;}
 h2 {text-transform: uppercase;
 text-align: left;}
+
+
 body, html {height: 100%;position: relative;}
 
 img {float: left}
